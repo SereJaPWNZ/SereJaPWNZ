@@ -1,4 +1,6 @@
 - 👋 Hi, my name is Sergey!
+
+
 - 👀 I’m interested in software testing.
 - 🌱 I’m currently learning this craft.
 - 💞️ I want to know and understand any topic quickly and easily:)
