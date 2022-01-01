@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Sergey!
+# <div align="center">👋 Hi, my name is Sergey!</div>
 ### 🌱 I’m currently learning this craft.
 ### 💞️ I want to know and understand any topic quickly and easily:)
 ### 🗺️ I explore tools: 
