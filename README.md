@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning this craft.
 - 💞️ I want to know and understand any topic quickly and easily:)
 
-<p>🗺️ I explore tools:</p>
+<br />
+<br />
 
 **🗺️ I explore tools:**
 <!-- main_page_length: 846px, img_spacing: 4px -->
