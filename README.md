@@ -1,7 +1,14 @@
+![Logo](https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png)
+
 # <div align="center">👋 Hi, my name is Sergey!</div>
-### 🌱 I’m currently learning this craft.
-### 💞️ I want to know and understand any topic quickly and easily:)
-### 🗺️ I explore tools: 
+
+<a href="https://myoctocat.dev/@sw-yx/octocat">
+  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
+</a>
+
+- 🌱 I’m currently learning this craft.
+- 💞️ I want to know and understand any topic quickly and easily:)
+- 🗺️ I explore tools: 
 <!-- main_page_length: 846px, img_spacing: 4px -->
 <div align="center">
 	<img alt="devtools" width="73px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
