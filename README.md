@@ -1,4 +1,4 @@
-<img align="left" width="400" height="400" alt="Sergey Morkovkin" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png"/>
+<img align="left" width="350" height="350" alt="Sergey Morkovkin" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png"/>
 
 # <div>👋 Welcome to my page</div>
 - 🌱 I’m currently learning this craft.
