@@ -2,7 +2,7 @@
 <img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-<img align="left" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png" alt="My Logo"/>
+<img align="left" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png" alt="My Logo" width="150" height="150" />
 
 # 👋 Welcome To My GitHub Profile ! 
 
