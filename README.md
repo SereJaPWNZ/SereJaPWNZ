@@ -6,6 +6,10 @@
 - 💞️ I want to know and understand any topic quickly and easily:)
 
 <br />
+<br />
+
+
+
 
 **🗺️ I explore tools:** 
 
