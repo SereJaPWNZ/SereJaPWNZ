@@ -1,6 +1,6 @@
-<img align="right" alt="jpg" width="250px" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png" />
+<img align="left" alt="jpg" width="250px" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png" />
 
-# 👋 Welcome to my page
+**👋 Welcome to my page**
 
 - 🌱 I’m currently learning this craft.
 - 💞️ I want to know and understand any topic quickly and easily:)
