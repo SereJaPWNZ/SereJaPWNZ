@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/Hi%2C%20I'm%20Sergey.gif" alt="My Logo" width="800" height="300" />
+<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/Hi%2C%20I'm%20Sergey.gif" alt="My Logo"  />
 </div>
 
 
