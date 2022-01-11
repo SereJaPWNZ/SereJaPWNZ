@@ -1,6 +1,6 @@
 <img align="left" width="350" height="350" alt="Sergey Morkovkin" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png"/>
 
-# <h1 align="centre">👋 Welcome to my page</h1>
+# <h1 align="center">👋 Welcome to my page</h1>
 
 - 🌱 I’m currently learning this craft.
 - 💞️ I want to know and understand any topic quickly and easily:)
