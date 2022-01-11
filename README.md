@@ -1,11 +1,6 @@
 <img align="left" width="300" height="300" alt="Sergey Morkovkin" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png"/>
 
 # <div>👋 Welcome to my page</div>
-
-<a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
-</a>
-
 - 🌱 I’m currently learning this craft.
 - 💞️ I want to know and understand any topic quickly and easily:)
 - 🗺️ I explore tools: 
