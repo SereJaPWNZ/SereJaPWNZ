@@ -1,11 +1,13 @@
-# <img align="left" width="350" height="350" alt="Sergey Morkovkin" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png"/>
+# <img alt="Sergey Morkovkin" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png"/>
 
-# <h1 align="center">👋 Welcome to my page</h1>
+# 👋 Welcome to my page
 
 - 🌱 I’m currently learning this craft.
 - 💞️ I want to know and understand any topic quickly and easily:)
 - 🗺️ I explore tools: 
+
 <!-- main_page_length: 846px, img_spacing: 4px -->
+
 <div align="center">
 	<img alt="devtools" width="73px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
 	<img alt="dbeaver" width="73px" src="https://user-images.githubusercontent.com/89486551/143319757-0bbd31ce-7860-447a-9571-504653849d0b.png" />
@@ -17,6 +19,8 @@
 	<img alt="postman" width="73px" src="https://user-images.githubusercontent.com/89486551/143319803-99550e9f-bdde-4354-b38a-a3aa8ffc9a77.png" />
 	<img alt="pycharm" width="73px" src="https://user-images.githubusercontent.com/89486551/143319814-3645ca4a-c3cc-4958-aa5b-ff27b47d704c.png" />
 </div>
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ## 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/res1stpwnz)
