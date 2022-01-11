@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/prog.gif" alt="Programmer" width="300" height="300" />
+<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/prog.gif" alt="Programmer" />
 </div>
 
 ## 📫 How to reach me
