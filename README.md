@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/Hi%2C%20I'm%20Sergey.gif" alt="My Logo" width="800" height="300" />
 </div>
 
-<img align="left" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png" alt="My Logo" width="150" height="150" />
+
 
 # 👋 Welcome To My GitHub Profile ! 
 
@@ -31,3 +31,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/res1stpwnz)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=3955a8)](https://linkedin.com/in/morkovkinsergey)
 
+<div align="center">
+<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
