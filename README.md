@@ -1,11 +1,15 @@
-<img align="left" alt="jpg" width="250px" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png" />
+<div align="center">
+<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 
-**👋 Welcome to my page**
+**👋 Welcome To My GitHub Profile !**
+
 - 🌱 I’m currently learning this craft.
 - 💞️ I want to know and understand any topic quickly and easily:)
 
 <br />
 <br />
+
 
 **🗺️ I explore tools:**
 <!-- main_page_length: 846px, img_spacing: 4px -->
@@ -26,3 +30,4 @@
 ## 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/res1stpwnz)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=3955a8)](https://linkedin.com/in/morkovkinsergey)
+
