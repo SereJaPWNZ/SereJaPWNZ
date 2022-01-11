@@ -2,8 +2,9 @@
 <img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
+<img align="left" src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png" alt="My Logo"/>
 
-# 👋 Welcome To My GitHub Profile ! <img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/headerlogo.png" alt="My Logo"/>
+# 👋 Welcome To My GitHub Profile ! 
 
 - 🌱 I’m currently learning this craft.
 - 💞️ I want to know and understand any topic quickly and easily:)
