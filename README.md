@@ -35,7 +35,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/SereJaPWNZ"><img src="https://github-readme-stats.vercel.app/api?username=serejapwnz&hide_border=true&show_icons=true" alt="serejapwnz's github stats"></a>
+  <a href="https://github.com/SereJaPWNZ"><img src="https://github-readme-stats.vercel.app/api?username=serejapwnz&hide_border=true&show_icons=true" alt="SereJaPWNZ's github stats"></a>
 </p>
 
 <div align="center">
