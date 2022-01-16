@@ -5,17 +5,17 @@
 
 ## 👋 Welcome To My GitHub Profile !</h2>
 
-
-- 🌱 I’m currently learning this craft.
+- 🌱 I am learning software testing
+- I like to work in a Linux Environment.
+- :us: I also study English
 - 💞️ I want to know and understand any topic quickly and easily:)
-
 ## 📫 How to reach me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/res1stpwnz)
 [![Email](https://img.shields.io/badge/-gmail-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:oofatherxomgoo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=3955a8)](https://linkedin.com/in/morkovkinsergey)
 
-## 🗺️ I explore tools:</h2>
+## 🗺️ Languages and Tools🤓
 
 <div align="center">
 	<img alt="devtools" width="73px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
