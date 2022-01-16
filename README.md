@@ -7,7 +7,7 @@
 
 - 🌱 I am learning software testing
 - I like to work in a Linux Environment.
-- :us: I also study English
+- I also study English
 - 💞️ I want to know and understand any topic quickly and easily:)
 ## 📫 How to reach me
 
