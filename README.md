@@ -9,6 +9,11 @@
 - 🌱 I’m currently learning this craft.
 - 💞️ I want to know and understand any topic quickly and easily:)
 
+## 📫 How to reach me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/res1stpwnz)
+[![Email](https://img.shields.io/badge/-gmail-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:oofatherxomgoo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=3955a8)](https://linkedin.com/in/morkovkinsergey)
 
 ## 🗺️ I explore tools:</h2>
 
@@ -24,13 +29,5 @@
 	<img alt="pycharm" width="73px" src="https://user-images.githubusercontent.com/89486551/143319814-3645ca4a-c3cc-4958-aa5b-ff27b47d704c.png" />
 </div>
 
-<div align="center">
-<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/prog.gif" alt="Programmer" />
-</div>
 
-## 📫 How to reach me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/res1stpwnz)
-[![Email](https://img.shields.io/badge/-gmail-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:oofatherxomgoo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=3955a8)](https://linkedin.com/in/morkovkinsergey)
-![Made with love in Russia](https://madewithlove.now.sh/ru?heart=true&colorA=%23000000&template=for-the-badge)
+### ![Made with love in Russia](https://madewithlove.now.sh/ru?heart=true&colorA=%23000000&template=for-the-badge)
