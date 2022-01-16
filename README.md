@@ -3,13 +3,14 @@
 </div>
 
 
-<h1 align="center">👋 Welcome To My GitHub Profile !</h1>
+## 👋 Welcome To My GitHub Profile !</h2>
+
 
 - 🌱 I’m currently learning this craft.
 - 💞️ I want to know and understand any topic quickly and easily:)
 
 
-<h1 align="center">🗺️ I explore tools:</h1>
+## 🗺️ I explore tools:</h2>
 
 <div align="center">
 	<img alt="devtools" width="73px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
@@ -27,18 +28,9 @@
 <img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/prog.gif" alt="Programmer" />
 </div>
 
-<h1 align="center">📫 How to reach me
+## 📫 How to reach me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/res1stpwnz)
 [![Email](https://img.shields.io/badge/-gmail-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:oofatherxomgoo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=3955a8)](https://linkedin.com/in/morkovkinsergey)
-
-</h1>
-
-<p align="center">
-  <a href="https://github.com/SereJaPWNZ"><img src="https://github-readme-stats.vercel.app/api?username=serejapwnz&hide_border=true&show_icons=true" alt="SereJaPWNZ's github stats"></a>
-</p>
-
-<div align="center">
-<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
+![Made with love in Russia](https://madewithlove.now.sh/ru?heart=true&colorA=%23000000&template=for-the-badge)
