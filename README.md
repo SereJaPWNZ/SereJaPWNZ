@@ -10,12 +10,14 @@
 - 🎆 I also study English
 - 💞️ I want to know and understand any topic quickly and easily:)
 
+
 ## 📫 How to reach me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/res1stpwnz)
-[![Email](https://img.shields.io/badge/-gmail-000000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:oofatherxomgoo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=3955a8)](https://linkedin.com/in/morkovkinsergey)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SereJaPWNZ)
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&message=telegram&label=&color=4165a3&labelColor=000000)](https://t.me/res1stpwnz)
+[![Email](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=gmail&label=&color=e8203b&labelColor=000000)](mailto:oofatherxomgoo@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&message=LinkedIn&label=&color=3947c4&labelColor=000000)](https://linkedin.com/in/morkovkinsergey)
+[![Github](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=GitHub&label=&color=8b32b8&labelColor=000000)](https://github.com/SereJaPWNZ)
+
 
 ## 🪁 Languages & Tools
 
@@ -31,6 +33,7 @@
 ![VS_Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&logo=markdown&message=Markdown&label=&color=32aab8&labelColor=000000)
 ![Canva](https://img.shields.io/static/v1?style=for-the-badge&logo=canva&message=Canva&label=&color=%2320C4CB&labelColor=000000)
+
 
 <div align="center">
 	<img alt="devtools" width="73px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
