@@ -46,6 +46,11 @@
 </div>
 
 
+<div align="center">
+<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/footer.gif" alt="My footer"  />
+</div>
+
+
 ### ![Made with love in Russia](https://madewithlove.now.sh/ru?heart=true&colorA=%23000000&template=for-the-badge)
 
 
