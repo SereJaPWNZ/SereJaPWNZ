@@ -38,15 +38,6 @@
 
 
 <div align="center">
-	<img alt="devtools" width="73px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
-	<img alt="dbeaver" width="73px" src="https://user-images.githubusercontent.com/89486551/143319757-0bbd31ce-7860-447a-9571-504653849d0b.png" />
-	<img alt="charles" width="73px" src="https://user-images.githubusercontent.com/89486551/143319787-e5eb9aa4-5b57-454f-b903-64282274af76.png" />
-	<img alt="fiddler" width="73px" src="https://user-images.githubusercontent.com/89486551/143319792-72034e75-f2fe-4589-b741-6f21a2433a71.png" />
-
-</div>
-
-
-<div align="center">
 <img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/footer.gif" alt="My footer"  />
 </div>
 
